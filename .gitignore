@@ -1,0 +1,8 @@
+# Ignorar arquivos de log/temporários
+*.log
+
+# Ignorar arquivos do VS Code
+.vscode/
+
+# Ignorar qualquer coisa que possa ser específica do XAMPP (opcional)
+# temp/
